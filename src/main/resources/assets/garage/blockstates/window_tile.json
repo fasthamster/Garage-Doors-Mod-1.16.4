@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "garage:block/window_tile" },
+    "facing=south": { "model": "garage:block/window_tile", "y":  180},
+    "facing=west": { "model": "garage:block/window_tile", "y":  270},
+    "facing=east": { "model": "garage:block/window_tile", "y":  90}
+  }
+}
